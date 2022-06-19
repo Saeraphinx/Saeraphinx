@@ -1,4 +1,4 @@
-# hello - [website](https://saeraphinx.dev)
+# hello - https://img.shields.io/website?label=saeraphinx.dev&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaeraphinx.dev
 
 hey, my names Saera, and i make some really bad programs. they seem to always get caught by anti virus programs, and i have put zero effort into finding out why.
 
