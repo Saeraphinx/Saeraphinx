@@ -8,4 +8,4 @@ my popular (and only public projects) include:
  - [BeatSaberDiscordLink](https://github.com/Saeraphinx/BeatSaberDiscordLink), essentially the mod for twitch but for discord and uses oneclick instead.
  - [8](https://github.com/Saeraphinx/8) (You should play The Stanley Parable).
  
- all of these should have actions enabled so go in that tab for up to date versions. i do not promise that they work at all though.
+i do not promise that they work at all though.
