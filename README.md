@@ -2,4 +2,4 @@
 
 oh hi there
 
-ive made a few things, theyre below if youre curious. contact info is on my website.
+ive made a few things, theyre below if youre curious.
